@@ -1,0 +1,7 @@
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-self: start;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
